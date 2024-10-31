@@ -4,12 +4,11 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="README_File/B.svg" alt="AE" height="200"></a>
-  <a href=""><img src="README_File/email.svg" alt="GitHub stars" height="200"></a>
-  <a href=""><img src="README_File/AE.svg" alt="GitHub issues" height="200"></a>
-  <a href=""><img src="README_File/AI.svg" alt="Sina Weibo" height="200"></a>
+  <a href=""><img src="README_File/B.svg" alt="AE" height="200" style="object-fit: contain;"></a>
+  <a href=""><img src="README_File/email.svg" alt="GitHub stars" height="200" style="object-fit: contain;"></a>
+  <a href=""><img src="README_File/AE.svg" alt="GitHub issues" height="200" style="object-fit: contain;"></a>
+  <a href=""><img src="README_File/AI.svg" alt="Sina Weibo" height="200" style="object-fit: contain;"></a>
 </p>
-
 
 
 
