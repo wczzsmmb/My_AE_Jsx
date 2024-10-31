@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="README_File/B.svg" alt="AE" style="max-height: 200px; display: inline-block; vertical-align: middle;"></a>
-  <a href=""><img src="README_File/email.svg" alt="GitHub stars" style="max-height: 200px; display: inline-block; vertical-align: middle;"></a>
-  <a href=""><img src="README_File/AE.svg" alt="GitHub issues" style="max-height: 200px; display: inline-block; vertical-align: middle;"></a>
-  <a href=""><img src="README_File/AI.svg" alt="Sina Weibo" style="max-height: 200px; display: inline-block; vertical-align: middle;"></a>
+  <a href=""><img src="README_File/B.svg" alt="AE" width="200"></a>
+  <a href=""><img src="README_File/email.svg" alt="GitHub stars" width="200"></a>
+  <a href=""><img src="README_File/AE.svg" alt="GitHub issues" width="200"></a>
+  <a href=""><img src="README_File/AI.svg" alt="Sina Weibo" width="200"></a>
 </p>
 
 
