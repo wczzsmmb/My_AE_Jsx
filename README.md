@@ -4,13 +4,11 @@
 </p>
 
 <p align="center">
-  <a href=""><img src="README_File/B.svg" alt="AE" height="200" style="object-fit: contain;"></a>
-  <a href=""><img src="README_File/email.svg" alt="GitHub stars" height="200" style="object-fit: contain;"></a>
-  <a href=""><img src="README_File/AE.svg" alt="GitHub issues" height="200" style="object-fit: contain;"></a>
-  <a href=""><img src="README_File/AI.svg" alt="Sina Weibo" height="200" style="object-fit: contain;"></a>
+  <a href=""><img src="README_File/B.svg" alt="AE" style="height: 200px; width: auto;"></a>
+  <a href=""><img src="README_File/email.svg" alt="GitHub stars" style="height: 200px; width: auto;"></a>
+  <a href=""><img src="README_File/AE.svg" alt="GitHub issues" style="height: 200px; width: auto;"></a>
+  <a href=""><img src="README_File/AI.svg" alt="Sina Weibo" style="height: 200px; width: auto;"></a>
 </p>
-
-
 
 ### 声明
 
