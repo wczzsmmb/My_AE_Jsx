@@ -7,7 +7,7 @@
   <a href=""><img src="README_File/B.svg" alt="AE"></a>
   <a href=""><img src="README_File/email.svg" alt="GitHub stars"></a>
   <a href=""><img src="README_File/AE.svg" alt="GitHub issues"></a>
-    <a href=""><img src="README_File/AI.svg" alt="Sina Weibo"></a>
+    <a href=""><img src="README_File/AI .svg" alt="Sina Weibo"></a>
 </p>
 
 ### 声明
