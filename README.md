@@ -3,20 +3,13 @@
   <br>分享跟随oeasy老师学习AE的过程、遇到的问题以及解决方案。<br>分享自己编写的AE表达式和JSX脚本。
 </p>
 
-<style>
-    .icon {
-        max-height: 200px; /* 固定高度 */
-        display: inline-block; /* 使其在一行中显示 */
-        vertical-align: middle; /* 垂直对齐 */
-    }
-</style>
-
 <p align="center">
-  <a href=""><img src="README_File/B.svg" alt="AE" class="icon"></a>
-  <a href=""><img src="README_File/email.svg" alt="GitHub stars" class="icon"></a>
-  <a href=""><img src="README_File/AE.svg" alt="GitHub issues" class="icon"></a>
-  <a href=""><img src="README_File/AI.svg" alt="Sina Weibo" class="icon"></a>
+  <a href=""><img src="README_File/B.svg" alt="AE" style="max-height: 200px; display: inline-block; vertical-align: middle;"></a>
+  <a href=""><img src="README_File/email.svg" alt="GitHub stars" style="max-height: 200px; display: inline-block; vertical-align: middle;"></a>
+  <a href=""><img src="README_File/AE.svg" alt="GitHub issues" style="max-height: 200px; display: inline-block; vertical-align: middle;"></a>
+  <a href=""><img src="README_File/AI.svg" alt="Sina Weibo" style="max-height: 200px; display: inline-block; vertical-align: middle;"></a>
 </p>
+
 
 
 ### 声明
